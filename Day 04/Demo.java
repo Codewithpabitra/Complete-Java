@@ -6,8 +6,8 @@ public class Demo {
         // System.out.print("Hello hello");
         Scanner input = new Scanner(System.in);
 
-        String name = input.nextLine();
-         System.out.print(name);
+        String name = input.nextLine(); 
+         System.out.print(name);  
 
     }
 }
