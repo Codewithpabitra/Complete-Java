@@ -1,5 +1,5 @@
 // 1. 
-
+```java 
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int n = nums.length;
@@ -17,9 +17,10 @@ class Solution {
 
     } 
 }
+```
 
 // 2. 
-
+```java
 class Solution {
     public int[] buildArray(int[] nums) {
         int n = nums.length;
@@ -32,9 +33,9 @@ class Solution {
         return ans;
     }
 }
-
+```
 // 3. All you know 
-
+```java
 public int f(int[] arr) {
     int max = arr[0];
 
@@ -47,10 +48,11 @@ public int f(int[] arr) {
     return max;
 }
 // find the min similarly 
+```
 
 
 // 4. 
-
+```java
 class Solution {
     public int getSecondLargest(int[] arr) {
         // code here
@@ -72,9 +74,12 @@ class Solution {
     
     
 }
+```
 
 
 // 5. Find the smallest and second smallest elements in a given array - make your solution optimized. 
+```java
+```
 
 
 
