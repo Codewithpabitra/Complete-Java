@@ -1,4 +1,5 @@
 // 1. 
+
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int n = nums.length;
@@ -18,6 +19,7 @@ class Solution {
 }
 
 // 2. 
+
 class Solution {
     public int[] buildArray(int[] nums) {
         int n = nums.length;
@@ -32,6 +34,7 @@ class Solution {
 }
 
 // 3. All you know 
+
 public int f(int[] arr) {
     int max = arr[0];
 
@@ -47,6 +50,7 @@ public int f(int[] arr) {
 
 
 // 4. 
+
 class Solution {
     public int getSecondLargest(int[] arr) {
         // code here
@@ -71,6 +75,7 @@ class Solution {
 
 
 // 5. Find the smallest and second smallest elements in a given array - make your solution optimized. 
+
 
 
 
