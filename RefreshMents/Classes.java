@@ -1,4 +1,3 @@
-package javabootcamp.Refreshments;
 
 public class Classes {
 
